@@ -1,5 +1,8 @@
 # LED Race Game
 
+[GAMEPLAY VIDEO](https://www.youtube.com/shorts/HLi5Bn_9Hs8)
+
+
 ## Overview
 This LED Race Game is an interactive, two-player game designed for microcontrollers, leveraging the FastLED library to control addressable RGB LED strips. Players compete in a simple racing game where they advance their "cars" (represented by LEDs) along the strip by pressing buttons. The game incorporates colorful visual effects, including a rainbow effect for the introduction and a distinctive display for the winning and losing LEDs.
 
